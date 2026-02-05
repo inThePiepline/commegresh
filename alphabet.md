@@ -6,11 +6,11 @@ title: "Alphabet"
 **Commegresh is written using Greek characters, numbers, and symbols.**
 
 ## Contents
- - [1. Character List](#1-character-list)
- - [2. Vowels and Consonants](#2-vowels-and-consonants)
- - [3. Special Characters](#3-special-characters)
- - [4. Numbers](#4-numbers)
- - [5. Symbols](#5-symbols)
+ 1. [Character List](#1-character-list)
+ 2. [Vowels and Consonants](#2-vowels-and-consonants)
+ 3. [Special Characters](#3-special-characters)
+ 4. [Numbers](#4-numbers)
+ 5. [Symbols](#5-symbols)
 
 <br>
 
@@ -150,5 +150,6 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
 
 
