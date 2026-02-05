@@ -1,6 +1,6 @@
 ---
 layout: page
-title: morphology
+title: "Morphology"
 ---
 
 # Parts of Speech (語形成と品詞)
@@ -28,3 +28,4 @@ Commegreshの最大の特徴は、語尾の母音によって品詞が決定さ�
 * **I v Γεεμυα.** (I have a game.)
 
 ---
+
