@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Grammar"
-nav_order: 4
 ---
 
 # Grammar Rules (文法と構文)
@@ -37,4 +36,5 @@ Commegreshの文法構造は基本的に**英語（SVO型）**に基づきます
 (This is happy game that I like.)
 
 ---
+
 
