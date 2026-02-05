@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Alphabet"
+nav_exclude: true
 ---
 
 # Alphabet
@@ -149,6 +150,7 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
 
 
 
