@@ -3,55 +3,125 @@ layout: page
 title: "Alphabet"
 ---
 
-# Alphabet & Pronunciation (文字と発音)
+# Alphabet & Pronunciation
+Commegresh is written using Greek characters and symbols.
 
-Commegreshは、ギリシャ文字と独自の記号を用いて表記されます。
+## Contents
+ - [1. Character List](#1-character-list)
+ - [2. Vowels \& Consonants](#2-vowels--consonants)
+ - [3. Special Characters](#3-special-characters)
+ - [4. Symbols](#4-symbols)
 
-## 1. The Alphabet (文字一覧)
+## 1. Character List
+This is the complete list of characters used in Commegresh.
+| Category | List |
+| :--- | :--- |
+| Uppercase | A I U E O K Σ T Π H M Γ Λ Ω |
+| Lowercase | α ι υ ε ο κ ς τ π η μ γ λ ω |
+| Special | β δ χ θ ξ ζ φ ρ ν ψ |
+| Symbols | . , ! ? ' " [ ] : / * + - = |
 
-### Basic Characters (基本文字)
-日本語の各行に対応する基本の14文字です。
+---
 
-| 対応 | 大文字 | 小文字 | 口語(読み) | 対応(ローマ字) |
-| :--- | :---: | :---: | :--- | :--- |
-| **あ行** | A I U E O | α ι υ ε ο | エー、アイ、ユー、イー、オー | a, i, u, e, o |
-| **か行** | Κ | κ | ケー | k |
-| **さ行** | Σ | ς | エス | s |
-| **た行** | Τ | τ | ティー | t |
-| **な行** | Π | π | エヌ | n |
-| **は行** | Η | η | エイチ | h |
-| **ま行** | Μ | μ | エム | m |
-| **や行** | Γ | γ | ワイ | y |
-| **ら行** | Λ | λ | アール | r |
-| **わ行** | Ω | ω | ダブリュー | w |
-| **ん** | Π | π | エヌ | n |
+## 2. Vowels & Consonants
+### Vowels
+These five characters represent the core vowel sounds.
 
-### Special Characters (特殊文字/機能語)
-一文字で特定の文法機能を持つ文字です。
+| Japanese | Uppercase | Lowercase | Romanization |
+| :--- | :---: | :---: | :---: |
+| あ | A | α | a |
+| い | I | ι | i |
+| う | U | υ | u |
+| え | E | ε | e |
+| お | O | ο | o |
 
-| 文字 | 読み | 機能 |
-| :---: | :--- | :--- |
-| **β** | ビー | be動詞 |
-| **δ** | ド | 過去形 |
-| **χ** | ズ | 複数形 / 三単現 |
-| **θ** | イング | 現在進行形 |
-| **ξ** | ダット | 関係代名詞 (that) |
-| **ζ** | ディス | 指示代名詞 (this) |
-| **φ** | ノット | 否定 (not) |
-| **ρ** | ドゥー | do |
-| **v** | ハブ | have |
-| **ψ** | ウィル | will |
+### Syllabic Nasal
+This character represents the "n" sound that functions as a single syllable.
+| Japanese | Uppercase | Lowercase | Romanization |
+| :--- | :---: | :---: | :---: |
+| ん | Π | π | n |
 
-## 2. Writing Rules (表記のルール)
+### Consonants
+Combine these consonant characters with a vowel to form a syllable.
 
-### 濁点・半濁点の表記
-子音と母音の間に記号を挿入します。
-* **濁点 (")**: 例 `κ"α` (ga / が)
-* **半濁点 (')**: 例 `π'α` (pa / ぱ)
+| Japanese | Uppercase | Lowercase | Romanization |
+| :--- | :---: | :---: | :---: |
+| か行 | Κ | κ | k |
+| さ行 | Σ | ς | s |
+| た行 | Τ | τ | t |
+| な行 | Π | π | n |
+| は行 | Η | η | h |
+| ま行 | Μ | μ | m |
+| や行 | Γ | γ | y |
+| ら行 | Λ | λ | r |
+| わ行 | Ω | ω | w |
 
-### 長音と記号
-* **長音 (ー)**: 直前の母音を重ねて表記します。 (例: `αα`)
-* **Symbols**: 以下の記号は英語と同様に使用します。
-  * `. , ! ? ' " : [ ] / * + - =`
+> **Rule:** In Commegresh, each sound is formed by a Vowel alone, or by combining a Consonant with a Vowel. (Example: あ = α, か = κα)
+
+### Semi-voiced Consonants
+| Japanese | Uppercase | Lowercase | Romanization |
+| :--- | :---: | :---: | :---: |
+| ぱ行 | Η' | η' | p |
+
+### Voiced Consonants
+| Japanese | Uppercase | Lowercase | Romanization |
+| :--- | :---: | :---: | :---: |
+| が行 | Κ" | κ" | g |
+| ざ行 | Σ" | ς" | z |
+| だ行 | Τ" | τ" | d |
+| ば行 | Η" | η" | b |
+
+### Long Vowels
+To represent a long sound, simply double the letter.
+
+| Japanese | Uppercase | Lowercase | Romanization |
+| :--- | :---: | :---: | :---: |
+| あー | AA | αα | aa |
+| いー | II | ιι | ii |
+| うー | UU | υυ | uu |
+| えー | EE | εε | ee |
+| おー | OO | οο | oo |
+| んー | ΠΠ | ππ | nn |
+
+> **Rule:** This applies to all other characters. (Example: かー = καα)
+
+---
+
+## 3. Special Characters
+These characters represent specific grammatical roles or function as key vocabulary.
+
+| Character | Role |
+| :---: | :--- |
+| β | be-verb |
+| δ | past tense (ed) |
+| χ | plural / third-person singular (s/es) |
+| θ | progressive form (-ing) |
+| ξ | that |
+| ζ | this |
+| φ | not |
+| ρ | do |
+| ν | have |
+| ψ | will |
+
+---
+
+## 4. Symbols
+These symbols are used in the same way as in English.
+
+| Symbol | Name |
+| :---: | :--- |
+| . | Period |
+| , | Comma |
+| ! | Exclamation |
+| ? | Question |
+| ' | Apostrophe |
+| " | Quotation |
+| [ ] | Brackets |
+| : | Colon |
+| / | Slash |
+| * | Asterisk |
+| + | Plus |
+| - | Minus |
+| = | Equals |
 
 ---
