@@ -3,7 +3,6 @@ layout: page
 title: "Alphabet"
 ---
 
-# Alphabet
 Commegresh is written using Greek characters, numbers, and symbols.
 
 ## Contents
@@ -12,6 +11,8 @@ Commegresh is written using Greek characters, numbers, and symbols.
  - [3. Special Characters](#3-special-characters)
  - [4. Numbers](#4-numbers)
  - [5. Symbols](#5-symbols)
+
+<br>
 
 ## 1. Character List
 This is the complete list of characters used in Commegresh.
@@ -24,7 +25,7 @@ This is the complete list of characters used in Commegresh.
 | Numbers | 0 1 2 3 4 5 6 7 8 9 |
 | Symbols | . , ! ? ' " [ ] : / * + - = |
 
----
+<br>
 
 ## 2. Vowels and Consonants
 ### Vowels
@@ -91,7 +92,7 @@ To represent a long sound, simply double the letter.
 
 > **Rule:** This applies to all other characters. (Example: かー = καα)
 
----
+<br>
 
 ## 3. Special Characters
 These characters represent specific grammatical roles or function as key vocabulary.
@@ -109,7 +110,7 @@ These characters represent specific grammatical roles or function as key vocabul
 | ν | have |
 | ψ | will |
 
----
+<br>
 
 ## 4. Numbers
 These numbers are used in the same way as in English.
@@ -127,7 +128,7 @@ These numbers are used in the same way as in English.
 | 8 | Eight |
 | 9 | Nine |
 
----
+<br>
 
 ## 5. Symbols
 These symbols are used in the same way as in English.
@@ -149,11 +150,3 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
-
-
-
-
-
-
-
-
