@@ -1,3 +1,5 @@
 title: Commegresh
 description: Commegresh is the language of Zipangeath.
 remote_theme: jekyll/minima
+header_pages:
+  - index.md
