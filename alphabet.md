@@ -32,7 +32,7 @@ This is the complete list of characters used in Commegresh.
 These five characters represent the core vowel sounds.
 
 | Japanese | Uppercase | Lowercase | Romanization |
-| :--- | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | あ | A | α | a |
 | い | I | ι | i |
 | う | U | υ | u |
@@ -43,14 +43,14 @@ These five characters represent the core vowel sounds.
 This character represents the "n" sound that functions as a single syllable.
 
 | Japanese | Uppercase | Lowercase | Romanization |
-| :--- | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | ん | Π | π | n |
 
 ### Consonants
 Combine these consonant characters with a vowel to form a syllable.
 
 | Japanese | Uppercase | Lowercase | Romanization |
-| :--- | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | か行 | Κ | κ | k |
 | さ行 | Σ | ς | s |
 | た行 | Τ | τ | t |
@@ -66,13 +66,13 @@ Combine these consonant characters with a vowel to form a syllable.
 ### Semi-voiced Consonants
 
 | Japanese | Uppercase | Lowercase | Romanization |
-| :--- | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | ぱ行 | Η' | η' | p |
 
 ### Voiced Consonants
 
 | Japanese | Uppercase | Lowercase | Romanization |
-| :--- | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | が行 | Κ" | κ" | g |
 | ざ行 | Σ" | ς" | z |
 | だ行 | Τ" | τ" | d |
@@ -82,7 +82,7 @@ Combine these consonant characters with a vowel to form a syllable.
 To represent a long sound, simply double the letter.
 
 | Japanese | Uppercase | Lowercase | Romanization |
-| :--- | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | あー | AA | αα | aa |
 | いー | II | ιι | ii |
 | うー | UU | υυ | uu |
@@ -98,7 +98,7 @@ To represent a long sound, simply double the letter.
 These characters represent specific grammatical roles or function as key vocabulary.
 
 | Character | Role |
-| :---: | :--- |
+| :--- | :--- |
 | β | be-verb |
 | δ | past tense (ed) |
 | χ | plural / third-person singular (s/es) |
@@ -116,7 +116,7 @@ These characters represent specific grammatical roles or function as key vocabul
 These numbers are used in the same way as in English.
 
 | Number | Name |
-| :---: | :--- |
+| :--- | :--- |
 | 0 | Zero |
 | 1 | One |
 | 2 | Two |
@@ -134,7 +134,7 @@ These numbers are used in the same way as in English.
 These symbols are used in the same way as in English.
 
 | Symbol | Name |
-| :---: | :--- |
+| :--- | :--- |
 | . | Period |
 | , | Comma |
 | ! | Exclamation |
@@ -150,6 +150,7 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
 
 
 
