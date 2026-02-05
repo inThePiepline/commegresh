@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Alphabet"
 ---
 
 # Alphabet
@@ -148,6 +149,7 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
 
 
 
