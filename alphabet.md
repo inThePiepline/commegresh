@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Alphabet"
-nav_order: 2
+title: ""
 ---
 
 # Alphabet
@@ -150,6 +149,7 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
 
 
 
