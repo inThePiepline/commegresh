@@ -3,12 +3,12 @@ layout: page
 title: "Alphabet"
 ---
 
-# Alphabet & Pronunciation
-Commegresh is written using Greek characters and symbols.
+# Alphabet
+Commegresh is written using Greek characters, numbers, and symbols.
 
 ## Contents
  - [1. Character List](#1-character-list)
- - [2. Vowels \& Consonants](#2-vowels--consonants)
+ - [2. Vowels and Consonants](#2-vowels-and-consonants)
  - [3. Special Characters](#3-special-characters)
  - [4. Numbers](#4-numbers)
  - [5. Symbols](#5-symbols)
@@ -26,7 +26,7 @@ This is the complete list of characters used in Commegresh.
 
 ---
 
-## 2. Vowels & Consonants
+## 2. Vowels and Consonants
 ### Vowels
 These five characters represent the core vowel sounds.
 
@@ -149,5 +149,6 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
 
 
