@@ -10,15 +10,18 @@ Commegresh is written using Greek characters and symbols.
  - [1. Character List](#1-character-list)
  - [2. Vowels \& Consonants](#2-vowels--consonants)
  - [3. Special Characters](#3-special-characters)
- - [4. Symbols](#4-symbols)
+ - [4. Numbers](#4-numbers)
+ - [5. Symbols](#5-symbols)
 
 ## 1. Character List
 This is the complete list of characters used in Commegresh.
+
 | Category | List |
 | :--- | :--- |
 | Uppercase | A I U E O K Σ T Π H M Γ Λ Ω |
 | Lowercase | α ι υ ε ο κ ς τ π η μ γ λ ω |
 | Special | β δ χ θ ξ ζ φ ρ ν ψ |
+| Numbers | 0 1 2 3 4 5 6 7 8 9 |
 | Symbols | . , ! ? ' " [ ] : / * + - = |
 
 ---
@@ -37,6 +40,7 @@ These five characters represent the core vowel sounds.
 
 ### Syllabic Nasal
 This character represents the "n" sound that functions as a single syllable.
+
 | Japanese | Uppercase | Lowercase | Romanization |
 | :--- | :---: | :---: | :---: |
 | ん | Π | π | n |
@@ -105,7 +109,25 @@ These characters represent specific grammatical roles or function as key vocabul
 
 ---
 
-## 4. Symbols
+## 4. Numbers
+These numbers are used in the same way as in English.
+
+| Number | Name |
+| :---: | :--- |
+| 0 | Zero |
+| 1 | One |
+| 2 | Two |
+| 3 | Three |
+| 4 | Four |
+| 5 | Five |
+| 6 | Six |
+| 7 | Seven |
+| 8 | Eight |
+| 9 | Nine |
+
+---
+
+## 5. Symbols
 These symbols are used in the same way as in English.
 
 | Symbol | Name |
@@ -125,3 +147,4 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
