@@ -3,7 +3,7 @@ layout: page
 title: "Alphabet"
 ---
 
-### Commegresh is written using Greek characters, numbers, and symbols.
+**Commegresh is written using Greek characters, numbers, and symbols.**
 
 ## Contents
  - [1. Character List](#1-character-list)
@@ -150,4 +150,5 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
 
