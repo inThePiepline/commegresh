@@ -7,6 +7,6 @@ description: Commegresh is the language of Zipangeath.
 Commegresh is a constructed language that applies English grammar and Japanese vocabulary, written in the Greek alphabet.
 
 ## Contents
-* [Alphabet](/alphabet.html)
-* [Morphology](/morphology.html)
-* [Grammar](/grammar.html)
+* [Alphabet]({{ site.baseurl }}/alphabet.html)
+* [Morphology]({{ site.baseurl }}/morphology.html)
+* [Grammar]({{ site.baseurl }}/grammar.html)
