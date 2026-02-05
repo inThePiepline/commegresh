@@ -4,3 +4,6 @@ description: Commegresh is the language of Zipangeath.
 theme: minima
 header_pages:
   - index.md
+  - alphabet.md
+  - morphology.md
+  - grammar.md
