@@ -63,11 +63,13 @@ Combine these consonant characters with a vowel to form a syllable.
 > **Rule:** In Commegresh, each sound is formed by a Vowel alone, or by combining a Consonant with a Vowel. (Example: あ = α, か = κα)
 
 ### Semi-voiced Consonants
+
 | Japanese | Uppercase | Lowercase | Romanization |
 | :--- | :---: | :---: | :---: |
 | ぱ行 | Η' | η' | p |
 
 ### Voiced Consonants
+
 | Japanese | Uppercase | Lowercase | Romanization |
 | :--- | :---: | :---: | :---: |
 | が行 | Κ" | κ" | g |
@@ -147,4 +149,5 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
 
