@@ -11,6 +11,7 @@ This table outlines how to transform Japanese words into "Commegresh" using spec
 
 ## 1. Part of Speech
 ### Word Formation Rules
+
 | Part of Speech | Suffix | Rule | Example (JP → Commegresh) |
 | :--- | :---: | :--- | :--- |
 | Noun | None | Always Capitalized | 言葉 → Κοτοη”α |
@@ -29,6 +30,7 @@ This table outlines how to transform Japanese words into "Commegresh" using spec
 Pronouns are based on English spelling, converted into Commegresh characters.
 
 #### Singular
+
 | Person | Subject (I) | Possessive (My) | Object (Me) | Possessive Pronoun (Mine) |
 | :--- | :---: | :---: | :---: | :---: |
 | 1st | I | Μγ | Με | Mιπε |
@@ -38,6 +40,7 @@ Pronouns are based on English spelling, converted into Commegresh characters.
 | 3rd (Neutral) | Ιτ | Ιτς | Ιτ |  |
 
 #### Plural
+
 | Person | Subject (We) | Possessive (Our) | Object (Us) | Possessive Pronoun (Ours) |
 | :--- | :---: | :---: | :---: | :---: |
 | 1st | Ωε | Ουλ | Uς | Ουλς |
@@ -59,6 +62,7 @@ Japanese particles (Te-Ni-O-Ha) are used as-is without changing the ending vowel
 * Commegresh: Ι ωα Γεεμυα ο τςυκυλυυ
 
 ---
+
 
 
 
