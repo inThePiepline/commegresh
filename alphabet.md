@@ -19,7 +19,7 @@ This is the complete list of characters used in Commegresh.
 
 | Category | List |
 | :--- | :--- |
-| Uppercase | A I U E O K Σ T Π H M Γ Λ Ω |
+| Uppercase | Α Ι Υ Ε Ο K Σ T Π H M Γ Λ Ω |
 | Lowercase | α ι υ ε ο κ ς τ π η μ γ λ ω |
 | Special | β δ χ θ ξ ζ φ ρ ν ψ |
 | Numbers | 0 1 2 3 4 5 6 7 8 9 |
@@ -33,11 +33,11 @@ These five characters represent the core vowel sounds.
 
 | Japanese | Uppercase | Lowercase | Romanization |
 | :---: | :---: | :---: | :---: |
-| あ | A | α | a |
-| い | I | ι | i |
-| う | U | υ | u |
-| え | E | ε | e |
-| お | O | ο | o |
+| あ | Α | α | a |
+| い | Ι | ι | i |
+| う | Υ | υ | u |
+| え | Ε | ε | e |
+| お | Ο | ο | o |
 
 ### Syllabic Nasal
 This character represents the "n" sound that functions as a single syllable.
@@ -83,8 +83,8 @@ To represent a long sound, simply double the letter.
 
 | Japanese | Uppercase | Lowercase | Romanization |
 | :---: | :---: | :---: | :---: |
-| あー | AA | αα | aa |
-| いー | II | ιι | ii |
+| あー | ΑΑ | αα | aa |
+| いー | ΙΙ | ιι | ii |
 | うー | UU | υυ | uu |
 | えー | EE | εε | ee |
 | おー | OO | οο | oo |
@@ -150,6 +150,7 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
 
 
 
