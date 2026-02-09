@@ -61,7 +61,7 @@ Combine these consonant characters with a vowel to form a syllable.
 | ら行 | Λ | λ | r |
 | わ行 | Ω | ω | w |
 
-> **Rule:** In Commegresh, each sound is formed by a Vowel alone, or by combining a Consonant with a Vowel. (Example: あ = α, か = κα)
+> **Note:** In Commegresh, each sound is formed by a Vowel alone, or by combining a Consonant with a Vowel. (Example: あ = α, か = κα)
 
 ### Semi-voiced Consonants
 
@@ -150,8 +150,6 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
-
-
 
 
 
