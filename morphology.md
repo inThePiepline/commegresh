@@ -3,31 +3,50 @@ layout: page
 title: "Morphology"
 ---
 
-# Parts of Speech (語形成と品詞)
+This table outlines how to transform Japanese words into "Commegresh" using specific suffixes and the Greek-based script.
 
-Commegreshの最大の特徴は、語尾の母音によって品詞が決定される点にあります。
 
-## 1. Word Formation (品詞変化ルール)
-全ての一般単語は日本語をベースにし、語尾を以下の母音に固定します。元がその母音でない場合は追加します。
+## Contents
 
-| 品詞 | 語尾 | 特徴 | 例 (日本語 → Commegresh) |
+<br>
+
+## 1. Part of Speech
+| Part of Speech | Suffix | Rule | Example (JP → Commegresh) |
 | :--- | :---: | :--- | :--- |
-| **名詞** | **-α** | **頭文字は大文字** | ゲーム → **Γεεμυα** |
-| **動詞** | **-υ** | 動作を表す | 作る → **τςυκυλυν** |
-| **形容詞** | **-ι** | 状態・性質 | 楽しい → **ταποςιι** |
-| **副詞** | **-ο** | 動詞等を修飾 | とても → **τοτεμο** |
-| **接続詞** | **-ε** | 文を繋ぐ | しかし → **ςικαςιε** |
+| Noun | None | Always Capitalized | 言葉 → Κοτοβα |
+| Verb | -υ | Last vowel becomes υ (or add υ) | 話す → ηαπαςυ |
+| Adjective | -ι | Last vowel becomes ι (or add ι) | 楽しい → ταποςιι |
+| Adverb | -ο | Last vowel becomes ο (or add ο) | とても → τοτεμο |
+| Conjunction | -ε | Last vowel becomes ε (or add ε) | しかし → ςικαςιε |
 
-* **代名詞**: 英語のスペルをベースにし、頭文字を大文字にします。(例: `I`, `Yου`, `Hε`)
-* **前置詞**: 日本語の助詞（てにをは）をそのまま使用し、母音変化は行いません。
+> **Note:**
+> If the last vowel does not match the rule, add the required vowel to the end.
+> The word "しかし" (ςικαςι) does not end in "ε". Therefore, you add "ε" to the end to make it **ςικαςιε**.
 
-## 2. Special Verbs & Function Words
-文中で頻出する補助的な言葉は、特殊文字一文字で表記されます。
+<br>
 
-* **I β ταποςιι.** (I am happy.)
-* **I v Γεεμυα.** (I have a game.)
+### 💡 Special Categories
+
+#### 1. Pronouns
+Based on English spelling, capitalized, and converted to the Greek-style script.
+* I → Ι
+* You → Υου
+* He → Ηε
+
+#### 2. Prepositions / Particles
+Japanese particles (Te-Ni-O-Ha) are used as-is without changing the ending vowel.
+* Wa → ωα
+* No → νο
+* Ni → νι
 
 ---
+
+### 📝 Sentence Construction Example
+* JP: Watashi wa gēmu o tsukuru
+* Commegresh: Ι ωα Γεεμυα ο τςυκυλυυ
+
+---
+
 
 
 
