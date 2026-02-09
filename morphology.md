@@ -26,7 +26,7 @@ title: "Morphology"
 | Verb | -υ | Last vowel becomes υ (or add υ) | 話す → ηαπαςυ |
 | Adjective | -ι | Last vowel becomes ι (or add ι) | 楽しい → ταποςιι |
 | Adverb | -ο | Last vowel becomes ο (or add ο) | とても → τοτεμο |
-| Conjunction | -ε | Last vowel becomes ε (or add ε) | しかし → ςικαςι + ε |
+| Conjunction | -ε | Last vowel becomes ε (or add ε) | しかし → ςικαςιε |
 
 > **Note:**
 > If the last vowel does not match the rule, add the required vowel to the end.
