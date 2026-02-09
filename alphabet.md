@@ -85,9 +85,9 @@ To represent a long sound, simply double the letter.
 | :---: | :---: | :---: | :---: |
 | あー | ΑΑ | αα | aa |
 | いー | ΙΙ | ιι | ii |
-| うー | UU | υυ | uu |
-| えー | EE | εε | ee |
-| おー | OO | οο | oo |
+| うー | ΥΥ | υυ | uu |
+| えー | ΕΕ | εε | ee |
+| おー | ΟΟ | οο | oo |
 | んー | ΠΠ | ππ | nn |
 
 > **Rule:** This applies to all other characters. (Example: かー = καα)
@@ -150,6 +150,7 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
 
 
 
