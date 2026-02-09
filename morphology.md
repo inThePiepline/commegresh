@@ -3,7 +3,7 @@ layout: page
 title: "Morphology"
 ---
 
-**This table outlines how to transform Japanese words into "Commegresh" using specific suffixes and the Greek-based script.**
+**Commegresh words are formed by modifying Japanese vocabulary.**
 
 ## Contents
  1. [Part of Speech](#1-part-of-speech)
