@@ -19,7 +19,7 @@ This is the complete list of characters used in Commegresh.
 
 | Category | List |
 | :--- | :--- |
-| Uppercase | Α Ι Υ Ε Ο K Σ T Π H M Γ Λ Ω |
+| Uppercase | Α Ι Υ Ε Ο Κ Σ Τ Π Η Μ Γ Λ Ω |
 | Lowercase | α ι υ ε ο κ ς τ π η μ γ λ ω |
 | Special | β δ χ θ ξ ζ φ ρ ν ψ |
 | Numbers | 0 1 2 3 4 5 6 7 8 9 |
@@ -150,6 +150,7 @@ These symbols are used in the same way as in English.
 | = | Equals |
 
 ---
+
 
 
 
