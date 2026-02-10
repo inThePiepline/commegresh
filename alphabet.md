@@ -9,8 +9,6 @@ title: "Alphabet"
  1. [Character List](#1-character-list)
  2. [Vowels and Consonants](#2-vowels-and-consonants)
  3. [Special Characters](#3-special-characters)
- 4. [Numbers](#4-numbers)
- 5. [Symbols](#5-symbols)
 
 <br>
 
@@ -24,6 +22,8 @@ This is the complete list of characters used in Commegresh.
 | Special | β δ χ θ ξ ζ φ ρ ν ψ |
 | Numbers | 0 1 2 3 4 5 6 7 8 9 |
 | Symbols | . , ! ? ' " [ ] : / * + - = |
+
+> **Note:** Numbers and symbols function as in English.
 
 <br>
 
@@ -101,7 +101,7 @@ These characters represent specific grammatical roles or function as key vocabul
 | :--- | :--- |
 | β | be-verb |
 | δ | past tense (ed) |
-| χ | plural / third-person singular (s/es) |
+| χ | plural / 3rd-person singular (s/es) |
 | θ | progressive form (-ing) |
 | ξ | that |
 | ζ | this |
@@ -110,48 +110,4 @@ These characters represent specific grammatical roles or function as key vocabul
 | ν | have |
 | ψ | will |
 
-<br>
-
-## 4. Numbers
-These numbers are used in the same way as in English.
-
-| Number | Name |
-| :--- | :--- |
-| 0 | Zero |
-| 1 | One |
-| 2 | Two |
-| 3 | Three |
-| 4 | Four |
-| 5 | Five |
-| 6 | Six |
-| 7 | Seven |
-| 8 | Eight |
-| 9 | Nine |
-
-<br>
-
-## 5. Symbols
-These symbols are used in the same way as in English.
-
-| Symbol | Name |
-| :--- | :--- |
-| . | Period |
-| , | Comma |
-| ! | Exclamation |
-| ? | Question |
-| ' | Apostrophe |
-| " | Quotation |
-| [ ] | Brackets |
-| : | Colon |
-| / | Slash |
-| * | Asterisk |
-| + | Plus |
-| - | Minus |
-| = | Equals |
-
 ---
-
-
-
-
-
