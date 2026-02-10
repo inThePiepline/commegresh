@@ -12,6 +12,8 @@ title: "Morphology"
 <br>
 
 ## 1. Part of Speech
+Parts of speech are defined by capitalization and suffixes.
+
 ### Fixed Words
 
 | Part of Speech | Rule | Example (JP → Commegresh) |
