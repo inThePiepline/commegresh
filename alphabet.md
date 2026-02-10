@@ -98,7 +98,7 @@ To represent a long sound, simply double the letter.
 These characters represent specific grammatical roles or function as key vocabulary.
 
 | Character | Role |
-| :--- | :--- |
+| :---: | :--- |
 | β | be-verb |
 | δ | past tense (ed) |
 | χ | plural / 3rd-person singular (s/es) |
@@ -111,3 +111,4 @@ These characters represent specific grammatical roles or function as key vocabul
 | ψ | will |
 
 ---
+
