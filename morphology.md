@@ -42,7 +42,7 @@ Pronouns are based on English spelling, converted into Commegresh characters.
 ### Singular
 
 | Person | Subject (I) | Possessive (My) | Object (Me) | Possessive Pronoun (Mine) |
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :--- | :--- | :--- | :--- |
 | 1st | Ι | Μγ | Με | Μιπε |
 | 2nd | Γου | Γουλ | Γου | Γουλς |
 | 3rd (Male) | Ηε | Ηις | Ηιμ | Ηις |
@@ -52,9 +52,10 @@ Pronouns are based on English spelling, converted into Commegresh characters.
 ### Plural
 
 | Person | Subject (We) | Possessive (Our) | Object (Us) | Possessive Pronoun (Ours) |
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :--- | :--- | :--- | :--- |
 | 1st | Ωε | Ουλ | Υς | Ουλς |
 | 2nd | Γου | Γουλ | Γου | Γουλς |
 | 3rd | Τηεγ | Τηειλ | Τηεμ | Τηειλς |
 
 ---
+
