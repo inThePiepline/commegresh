@@ -3,22 +3,21 @@ layout: page
 title: "Grammar"
 ---
 
-# Grammar Rules (文法と構文)
+**Commegresh follows English sentence structure and grammar rules.**
 
-Commegreshの文法構造は基本的に**英語（SVO型）**に基づきます。
+## 1. Sentence Structure
+The basic structure is **Subject + Verb + Object (SVO)**. Articles (a, an, the) are not used.
 
-## 1. Sentence Structure (基本構造)
-「主語 + 動詞 + 目的語」の順で構成され、冠詞(a, the)は使用しません。
+## 2. Inflection
+Tense and number are indicated by adding special characters to the end of a word.
 
-> **I τςυκυλυ Γεεμυα.**
-> (I make game.)
-
-## 2. Inflection (変化形)
-単語の最後に特定の記号を付与することで、時制や数を示します。
-
-* **過去形 (-δ)**: `τςυκυλυδ` (made)
-* **進行形 (-θ)**: `τςυκυλυθ` (making)
-* **複数形/三単現 (-χ)**: `Γεεμυαχ` (games) / `Hε τςυκυλυχ` (He makes)
+| Category | Character | Rule | Example (Commegresh) | English |
+| :--- | :---: | :--- | :--- | :--- |
+| Be-verb | β | Replaces am, is, are, was, were | Ι β κοκο | I am here |
+| Past Tense | δ | Add to verb end | Ι ηαπαςυδ | I spoke |
+| Progressive | θ | Add to verb end | Ι β ηαπαςυθ | I am speaking |
+| Plural | χ | Add to noun end | Ηοπχ | Books |
+| 3rd-Person | χ | Add to verb end | Ηε ηαπαςυχ | He speaks |
 
 ## 3. Relative Clause (関係代名詞)
 先行詞の種類に関わらず、全て **ξ** (that) を使用します。
@@ -26,15 +25,7 @@ Commegreshの文法構造は基本的に**英語（SVO型）**に基づきます
 > **Γεεμυα ξ I τςυκυλυδ.**
 > (The game that I made.)
 
-## 4. Examples (例文集)
+## 4. Examples
 
-**I. 私は昨日ゲームを作った。**
-`I τςυκυλυδ Γεεμυα κινου.`
-
-**II. これは私が好きな楽しいゲームです。**
-`ζ β ταποςιι Γεεμυα ξ I ςυκυι.`
-(This is happy game that I like.)
 
 ---
-
-
