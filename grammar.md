@@ -14,9 +14,9 @@ title: "Grammar"
 
 ## 1. Grammar Rules
 
-- Syntax: Uses Subject + Verb + Object (SVO) structure.
-- No Articles: Articles (a, an, the) are not used. Context or demonstratives provide specificity.
-- Relative Clauses: All relative clauses use ξ (that).
+- **Syntax:** Uses Subject + Verb + Object (SVO) structure.
+- **No Articles:** Articles (a, an, the) are not used. Context or demonstratives provide specificity.
+- **Relative Clauses:** All relative clauses use ξ (that).
 
 <br>
 
@@ -36,3 +36,4 @@ Tense and number are indicated by adding special characters to the end of a word
 <!-- ## 3. Example Sentence -->
 
 ---
+
