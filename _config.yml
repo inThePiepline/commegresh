@@ -7,3 +7,4 @@ header_pages:
   - alphabet.md
   - morphology.md
   - grammar.md
+favicon_path: "/images/favicon.png"
